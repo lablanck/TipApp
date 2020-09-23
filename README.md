@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [Customized Tip and colors] List anything else that you can get done to improve the app functionality!
+- [Customized Tip]
+- [Special Colorization]
 
 ## Video Walkthrough
 
@@ -34,8 +35,8 @@ GIF created with [Recordit](http://g.recordit.co/UhUivfjCJE.gif).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Trying to implement the numeric keyboard when tapping on the screen
+Trying to implement the numeric keyboard when tapping on and off the screen was tricky but figured it out.
+
 ## License
 
     Copyright [2020] [Kurt LaBlanc]
